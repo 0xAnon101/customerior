@@ -1,0 +1,52 @@
+A Apple
+B Banana
+C Cherry
+D Strawberry
+E Guava
+F Chocolate
+G Chips
+H Soft Drink
+I Flour
+J Pulses
+K Bread
+L Milk
+M Butter
+N Jam
+O Biscuits
+P Pickel
+Q Maggi
+R Namkeen
+S Sauces
+T Pizza Base
+U Oregano
+V Chilli Flakes
+W Eggs
+X Meat
+Y Oil
+Z Frozen Food
+a Juices
+b Tea
+c Coffee
+d Soup
+e Yearly Diaries
+f A4 sheets
+g A3 sheets
+h Printer Ink
+i Pencil
+j Pens
+k Soap
+l Shampoo
+m Water Bottle
+n Battery Cells
+o Tissues
+p Carbon Paper
+q Hair Brush
+r PopCorn
+s Papad
+t Pasta
+u Mouth Freshner
+v Gas Lighter
+w Newspaper
+x Pet food
+y Crushed ice
+z Candies 
